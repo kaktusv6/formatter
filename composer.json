@@ -1,0 +1,17 @@
+{
+    "name": "nkf/formatter",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vasiliy Nikiforov",
+            "email": "kaktusv6@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "Formatter\\": "src/"
+    }
+}
